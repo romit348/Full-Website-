@@ -1,2 +1,97 @@
 # Full-Website-
 Full webite with all tags 
+<Html>
+<head> <title> FULL WEBSITE </title> </head>
+
+<body bgcolor= "#E67E22" >
+<h1> Portfolio </h1>
+<h1> Romit Rao </h1>
+<h3> Game Developer </h3>
+<h4> Seamedu School of Pro-Expressionism, Pune, India </h4><hr>
+
+
+ <h1 style="text-align:center">Information</h1>
+<p> <h3 style="text-align:center">Name-J Romit Rao <br>
+DOB- 09/12/2001 <br>
+Gender - Male <br>
+Email - Romitrao8@gmail.com <br>
+Phone No- +91-6294125528 <br>
+Education- Bachelor's Of Computer Application (Game Development) <br>
+
+</p></h3>
+
+<p><h1> First Module </p></h1>
+<table border ="10" bgcolor = "#CB4335">
+<caption> Table </caption>
+<tr><th> First Column </th>
+<th> Second Column </th>
+<th> Third Column </th> 
+
+<tr> <td Colspan = 2> ABC </td>
+<td rowspan = 2> XYZ </td> </tr>
+<tr><td> 123 </td><td> %^&</td> </tr>
+</table>
+</body>
+
+
+<p><h2> Lists </h2> </p>
+<h3>Unorder and Order list</h3>
+
+
+<OL type = "1">
+<li>listA</li>
+<li>listB</li>
+</OL>
+<p> ---------- </p> 
+<OL type = "1" start="3">
+<li>listC</li><hr>
+
+
+<p><h1> Second Module <p></h1> 
+<p><h2> FORMS </p></h2>
+
+
+<a href="https://romitrao8.wixsite.com/website"> Home My Booking Destination  Login</a>
+<h2><p> Sign Up</h2></p>
+
+<table cellPadding ="10"><tr>
+Title</tr><br>
+
+
+<tr>
+First Name<br>
+<form>
+<input type ="text" value ="Enter Name">
+</tr>
+
+<tr>
+Last Name
+<input type ="text" value =""><br><br>
+</tr>
+
+<tr>
+Email
+<input type ="text" value ="Enter Your Mail">
+</tr>
+
+Mobile Number
+<input type ="text" value =""><br><br>
+
+
+
+Password:
+<input type="password" name="password"><td></tr>
+
+Confirm Password
+<input type="password" name="password"><td></tr><br>
+
+
+Receive newsletter:
+<input type= "checkbox" name="checkbox" value="checkbox">
+ 
+
+
+</table>
+</form>
+</html>
+
